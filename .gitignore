@@ -1,0 +1,23 @@
+# FOLDERS
+
+.gradle/
+.mvn/
+.settings/
+bin/
+build/
+gradle/
+.sass-cache/
+node_modules/
+style/
+
+# FILES
+
+.classpath
+.project
+gradlew
+mvnw
+pom.xml
+*.bat
+*.cmd
+*.css
+*.map

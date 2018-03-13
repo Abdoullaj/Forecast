@@ -1,0 +1,18 @@
+/* IMPORTS */
+
+@import 'variables';
+@import 'shared';
+
+@import 'feature_1';
+@import 'feature_2';
+@import 'feature_3';
+
+body {
+	font-family: $font-stack;
+	letter-spacing: 2px;
+	font-weight: 500;
+}
+
+.material-icons {
+	padding: 10px 10px;
+}
